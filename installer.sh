@@ -10,4 +10,5 @@ wget https://github.com/maxdhctrl/vt/releases/download/release/ffmpeg.zip
 unzip ffmpeg.zip
 
 chmod +x start.sh
+chmod +x ffmpeg
 ./start.sh
